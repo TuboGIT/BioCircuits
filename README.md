@@ -69,7 +69,7 @@ Every module also includes a plain-language **How it works** section and a side-
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/biocircuits.git
+git clone https://github.com/TuBoGIT/biocircuits.git
 cd biocircuits
 ```
 
